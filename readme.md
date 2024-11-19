@@ -20,19 +20,12 @@
 
 ---
 
-### 💖 What I Love
-- 🎮 **Gaming**: Duelists in Valorant 🕹️  
-- 🎧 **Audio Experiments**: Crafting soundscapes with plugins like **MAIM** and **Spectralgate**  
-- 🛠️ **Building**: Websites, projects, and experiences
-
----
-
 ### 📈 Recent Activity
 <!-- GitHub Activity Stats -->
-![Dean's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deandeanjay&show_icons=true&theme=tokyonight)
+![Dean's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rat255&show_icons=true&theme=tokyonight)
 
 <!-- Most Used Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deandeanjay&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rat255&layout=compact&theme=tokyonight)
 
 ---
 
